@@ -1,4 +1,4 @@
-**TinyDog(Art Gallery Project)**
+**TinyDog**
 
 
 ReadMe:
